@@ -19,3 +19,7 @@ def test_add_to_cart_button_present(browser):
     )
     assert add_to_cart_button is not None, "Add to cart button is not present on the page"
 
+
+
+
+
